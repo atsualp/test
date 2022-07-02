@@ -1,0 +1,6 @@
+[submodule "library/sub2"]
+	path = library/sub2
+	url = https://github.com/atsualp/testsub2.git
+[submodule "library/sub1"]
+	path = library/sub1
+	url = https://github.com/atsualp/testsub1.git
